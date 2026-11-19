@@ -1,0 +1,9 @@
+name = "o-tv-source"
+main = "src/index.js"
+compatibility_date = "2026-11-20"
+
+[vars]
+GITHUB_OWNER = "thinker911"
+GITHUB_REPO = "O-TV-Source"
+GITHUB_BRANCH = "main"
+CONFIG_PATH = "config/subscription.json"
