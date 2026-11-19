@@ -1,5 +1,1 @@
-{
-  "cache_time": 7200,
-  "api_site": {},
-  "custom_category": []
-}
+[{"id":"feifan","name":"非凡资源","baseUrl":"http://ffzy5.tv/api.php/provide/vod","group":"normal","enabled":true,"priority":1}]
