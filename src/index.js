@@ -1,6 +1,6 @@
 const BASE58 = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz";
 
-function encodeBase58(bytes) {
+export function encodeBase58(bytes) {
   let zeros = 0;
   while (zeros < bytes.length && bytes[zeros] === 0) zeros++;
   let value = 0n;
